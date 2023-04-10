@@ -1,5 +1,5 @@
 # quality-assurance-data
-Quality Assurance data and machine learning
+Quality Assurance data and machine learning version 0.0.1
 
 Quality assurance (QA) data and machine learning are essential components in the development and maintenance of machine learning models, particularly in open-source projects hosted on platforms like GitHub. Quality assurance in this context refers to the process of ensuring that the data used to train, validate, and test machine learning models meets specific quality standards. This is crucial in order to build models that are accurate, reliable, and robust.
 
